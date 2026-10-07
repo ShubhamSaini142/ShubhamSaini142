@@ -63,6 +63,7 @@ I'm a **GenAI Engineer at Katonic AI** and a generalist AI/ML engineer with **3+
 
 | Project | Highlights | Stack |
 |:--|:--|:--|
+| 🧠 [**RAG Knowledge Base**](https://github.com/ShubhamSaini142/RAG) | Multi-tenant RAG SaaS: upload documents and get cited answers, with async ingestion, per-org encrypted bring-your-own keys (OpenAI, Anthropic, Gemini), streaming chat and usage analytics | FastAPI · Celery · Qdrant · Postgres · LangChain · Next.js |
 | ⚡ **vLLM Inference Wrapper** | High-throughput, low-latency LLM inference on GPU clusters behind OpenAI-compatible REST endpoints, with request batching, streaming and configurable model loading | Python · vLLM · FastAPI |
 | 🤖 **JiraAI Agent** | Autonomous agent that fetches, summarizes and creates Jira tickets from natural-language instructions using multi-step, stateful LangGraph tool-calling | Python · LangChain · LangGraph · FastAPI |
 | 📋 [**TodoList-Jira**](https://github.com/ShubhamSaini142/TodoList-Jira) | Jira-style Kanban board with drag-and-drop, plus a REST API with BCrypt-secured sign-up and login | Spring Boot · Spring Security · React · Tailwind |
